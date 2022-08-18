@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "agent": "Radulf Konrad",
+        "unit": "#13",
+        "description": " 2-bedroom $$$$$ This luxurious studio apartment is in the heart of downtown.",
+        "num_bedrooms": 1
+    },
+    {
+        "id": "2",
+        "agent": "Ton Konrad",
+        "unit": "#136",
+        "description": "-- We have a 1-bedroom available on the third floor.",
+        "num_bedrooms": 1
+    },
+    {
+        "id": "3",
+        "agent": "Ton Ton",
+        "unit": "#112",
+        "description": "studio Beautiful studio apartment with nearby yoga studio.",
+        "num_bedrooms": 1
+    },
+    {
+        "id": "4",
+        "agent": "Ton Fishel",
+        "unit": "#1120",
+        "description": "1-bedroom %%%%% @# Beautiful 1-bedroom apartment with nearby yoga studio.",
+        "num_bedrooms": 1
+    },
+    {
+        "id": "5",
+        "agent": "Fishel Radulf",
+        "unit": "#130",
+        "description": "",
+        "num_bedrooms": 1
+    }
+]
